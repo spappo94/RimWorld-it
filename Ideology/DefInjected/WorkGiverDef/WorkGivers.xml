@@ -2,80 +2,80 @@
 <LanguageData>
   
   <!-- EN: change dryad types -->
-  <ChangeTreeMode.label>TODO</ChangeTreeMode.label>
+  <ChangeTreeMode.label>cambia tipi di driade</ChangeTreeMode.label>
   <!-- EN: changing dryad caste for -->
-  <ChangeTreeMode.gerund>TODO</ChangeTreeMode.gerund>
+  <ChangeTreeMode.gerund>cambiando la casta delle driadi per</ChangeTreeMode.gerund>
   <!-- EN: change dryad caste for -->
-  <ChangeTreeMode.verb>TODO</ChangeTreeMode.verb>
+  <ChangeTreeMode.verb>cambia la casta delle driadi per</ChangeTreeMode.verb>
   
   <!-- EN: convert prisoners -->
-  <ConvertPrisoner.label>TODO</ConvertPrisoner.label>
+  <ConvertPrisoner.label>convertire prigionieri</ConvertPrisoner.label>
   <!-- EN: converting -->
-  <ConvertPrisoner.gerund>TODO</ConvertPrisoner.gerund>
+  <ConvertPrisoner.gerund>convertendo</ConvertPrisoner.gerund>
   <!-- EN: convert -->
-  <ConvertPrisoner.verb>TODO</ConvertPrisoner.verb>
+  <ConvertPrisoner.verb>converti</ConvertPrisoner.verb>
   
   <!-- EN: emancipate slaves -->
-  <EmancipateSlave.label>TODO</EmancipateSlave.label>
+  <EmancipateSlave.label>emancipa schiavo</EmancipateSlave.label>
   <!-- EN: emancipating -->
-  <EmancipateSlave.gerund>TODO</EmancipateSlave.gerund>
+  <EmancipateSlave.gerund>emancipando</EmancipateSlave.gerund>
   <!-- EN: emancipate -->
-  <EmancipateSlave.verb>TODO</EmancipateSlave.verb>
+  <EmancipateSlave.verb>emancipare</EmancipateSlave.verb>
   
   <!-- EN: enslave prisoners -->
-  <EnslavePrisoner.label>TODO</EnslavePrisoner.label>
+  <EnslavePrisoner.label>schiavizzare prigionieri</EnslavePrisoner.label>
   <!-- EN: enslaving -->
-  <EnslavePrisoner.gerund>TODO</EnslavePrisoner.gerund>
+  <EnslavePrisoner.gerund>schiavizzando</EnslavePrisoner.gerund>
   <!-- EN: enslave -->
-  <EnslavePrisoner.verb>TODO</EnslavePrisoner.verb>
+  <EnslavePrisoner.verb>schiavizzare</EnslavePrisoner.verb>
   
   <!-- EN: execute prisoners -->
-  <ExecuteSlave.label>TODO</ExecuteSlave.label>
+  <ExecuteSlave.label>giustiziare prigionieri</ExecuteSlave.label>
   <!-- EN: executing -->
-  <ExecuteSlave.gerund>TODO</ExecuteSlave.gerund>
+  <ExecuteSlave.gerund>giustiziando</ExecuteSlave.gerund>
   <!-- EN: execute -->
-  <ExecuteSlave.verb>TODO</ExecuteSlave.verb>
+  <ExecuteSlave.verb>giustiziare</ExecuteSlave.verb>
   
   <!-- EN: extract skull -->
-  <ExtractSkull.label>TODO</ExtractSkull.label>
+  <ExtractSkull.label>estrarre teschio</ExtractSkull.label>
   <!-- EN: extracting skull of -->
-  <ExtractSkull.gerund>TODO</ExtractSkull.gerund>
+  <ExtractSkull.gerund>estrazione del cranio di</ExtractSkull.gerund>
   <!-- EN: extract -->
-  <ExtractSkull.verb>TODO</ExtractSkull.verb>
+  <ExtractSkull.verb>estrarre</ExtractSkull.verb>
   
   <!-- EN: carry to biosculpter pod -->
-  <HaulToBiosculpterPod.label>TODO</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.label>porta al pod bioscultura</HaulToBiosculpterPod.label>
   <!-- EN: filling -->
-  <HaulToBiosculpterPod.gerund>TODO</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.gerund>riempiendo</HaulToBiosculpterPod.gerund>
   <!-- EN: fill -->
-  <HaulToBiosculpterPod.verb>TODO</HaulToBiosculpterPod.verb>
+  <HaulToBiosculpterPod.verb>riempire</HaulToBiosculpterPod.verb>
   
   <!-- EN: imprison slaves -->
-  <ImprisonSlave.label>TODO</ImprisonSlave.label>
+  <ImprisonSlave.label>imprigiona schiavi</ImprisonSlave.label>
   <!-- EN: imprisoning -->
-  <ImprisonSlave.gerund>TODO</ImprisonSlave.gerund>
+  <ImprisonSlave.gerund>inprigionando</ImprisonSlave.gerund>
   <!-- EN: imprison -->
-  <ImprisonSlave.verb>TODO</ImprisonSlave.verb>
+  <ImprisonSlave.verb>imprigiona</ImprisonSlave.verb>
   
   <!-- EN: plant seeds -->
-  <PlantSeed.label>TODO</PlantSeed.label>
+  <PlantSeed.label>semi di piante</PlantSeed.label>
   <!-- EN: planting -->
-  <PlantSeed.gerund>TODO</PlantSeed.gerund>
+  <PlantSeed.gerund>piantando</PlantSeed.gerund>
   <!-- EN: plant -->
-  <PlantSeed.verb>TODO</PlantSeed.verb>
+  <PlantSeed.verb>pianta</PlantSeed.verb>
   
   <!-- EN: prune Gauranlen trees -->
-  <PruneGauranlenTree.label>TODO</PruneGauranlenTree.label>
+  <PruneGauranlenTree.label>potare alberi di Gauranlen</PruneGauranlenTree.label>
   <!-- EN: pruning -->
-  <PruneGauranlenTree.gerund>TODO</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.gerund>potando</PruneGauranlenTree.gerund>
   <!-- EN: prune -->
-  <PruneGauranlenTree.verb>TODO</PruneGauranlenTree.verb>
+  <PruneGauranlenTree.verb>potare</PruneGauranlenTree.verb>
   
   <!-- EN: suppress slaves -->
-  <SuppressSlave.label>TODO</SuppressSlave.label>
+  <SuppressSlave.label>sopprimere schiavi</SuppressSlave.label>
   <!-- EN: suppressing -->
-  <SuppressSlave.gerund>TODO</SuppressSlave.gerund>
+  <SuppressSlave.gerund>sopprimendo</SuppressSlave.gerund>
   <!-- EN: suppress -->
-  <SuppressSlave.verb>TODO</SuppressSlave.verb>
+  <SuppressSlave.verb>sopprimere</SuppressSlave.verb>
   
 </LanguageData>
