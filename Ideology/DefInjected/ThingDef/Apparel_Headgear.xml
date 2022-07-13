@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: authority cap -->
-  <Apparel_AuthorityCap.label>TODO</Apparel_AuthorityCap.label>
+  <Apparel_AuthorityCap.label>tetto massimo di autorità</Apparel_AuthorityCap.label>
   <!-- EN: A hat with a stiff brim and peaked top. It's not particularly protective, but it creates a sense of authority and makes the wearer more effective in suppressing slaves. -->
-  <Apparel_AuthorityCap.description>TODO</Apparel_AuthorityCap.description>
+  <Apparel_AuthorityCap.description>Un cappello a tesa rigida e a punta. Non è particolarmente protettivo, ma crea un senso di autorità e rende chi lo indossa più efficace nel reprimere gli schiavi.</Apparel_AuthorityCap.description>
   
   <!-- EN: broadwrap -->
-  <Apparel_Broadwrap.label>TODO</Apparel_Broadwrap.label>
+  <Apparel_Broadwrap.label>involucro largo</Apparel_Broadwrap.label>
   <!-- EN: Wrapped fabric sheets that loosely cover the wearer's head and shoulders. -->
-  <Apparel_Broadwrap.description>TODO</Apparel_Broadwrap.description>
+  <Apparel_Broadwrap.description>Lenzuola di tessuto avvolte che coprono liberamente la testa e le spalle di chi le indossa.</Apparel_Broadwrap.description>
   
   <!-- EN: slave collar -->
-  <Apparel_Collar.label>TODO</Apparel_Collar.label>
+  <Apparel_Collar.label>collare per schiavi</Apparel_Collar.label>
   <!-- EN: An uncomfortable collar made for slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion. -->
-  <Apparel_Collar.description>TODO</Apparel_Collar.description>
+  <Apparel_Collar.description>Un collare scomodo fatto per gli schiavi. Ricorda a chi lo indossa la sua condizione di schiavo e lo reprime psicologicamente, riducendo le possibilità di ribellione degli schiavi.</Apparel_Collar.description>
   
   <!-- EN: flophat -->
   <Apparel_Flophat.label>TODO</Apparel_Flophat.label>
   <!-- EN: A large, thick cap, similar to a tuque. It has extra fabric along the back. -->
-  <Apparel_Flophat.description>TODO</Apparel_Flophat.description>
+  <Apparel_Flophat.description>Un cappello grande e spesso, simile a un tuque. Ha un tessuto extra lungo nella parte posteriore.</Apparel_Flophat.description>
   
   <!-- EN: headwrap -->
-  <Apparel_Headwrap.label>TODO</Apparel_Headwrap.label>
+  <Apparel_Headwrap.label>fascia per capelli</Apparel_Headwrap.label>
   <!-- EN: A wrapped piece of fabric which covers the wearer's hair. -->
-  <Apparel_Headwrap.description>TODO</Apparel_Headwrap.description>
+  <Apparel_Headwrap.description>Un pezzo di tessuto avvolto che copre i capelli di chi lo indossa.</Apparel_Headwrap.description>
   
   <!-- EN: shadecone -->
-  <Apparel_Shadecone.label>TODO</Apparel_Shadecone.label>
+  <Apparel_Shadecone.label>cono paraluce</Apparel_Shadecone.label>
   <!-- EN: A conical woven hat. Good for keeping cool during long hours in the sun. -->
-  <Apparel_Shadecone.description>TODO</Apparel_Shadecone.description>
+  <Apparel_Shadecone.description>Cappello conico in tessuto. È utile per mantenersi freschi durante le lunghe ore al sole.</Apparel_Shadecone.description>
   
   <!-- EN: slicecap -->
-  <Apparel_Slicecap.label>TODO</Apparel_Slicecap.label>
+  <Apparel_Slicecap.label>cappuccio a fasce</Apparel_Slicecap.label>
   <!-- EN: A hard cap that partly covers the wearer's scalp. -->
-  <Apparel_Slicecap.description>TODO</Apparel_Slicecap.description>
+  <Apparel_Slicecap.description>Un berretto rigido che copre parzialmente il cuoio capelluto di chi lo indossa.</Apparel_Slicecap.description>
   
   <!-- EN: tailcap -->
-  <Apparel_Tailcap.label>TODO</Apparel_Tailcap.label>
+  <Apparel_Tailcap.label>coda di paglia</Apparel_Tailcap.label>
   <!-- EN: A thick cap made from animal skin with a stylish bushy tail. Great for keeping warm in winter. -->
-  <Apparel_Tailcap.description>TODO</Apparel_Tailcap.description>
+  <Apparel_Tailcap.description>Un berretto spesso in pelle di animale con un'elegante coda a cespuglio. Ideale per tenersi al caldo in inverno.</Apparel_Tailcap.description>
   
   <!-- EN: visage mask -->
-  <Apparel_VisageMask.label>TODO</Apparel_VisageMask.label>
+  <Apparel_VisageMask.label>maschera visiva</Apparel_VisageMask.label>
   <!-- EN: A hard facial mask that resembles a stylized face. -->
-  <Apparel_VisageMask.description>TODO</Apparel_VisageMask.description>
+  <Apparel_VisageMask.description>Maschera facciale rigida che ricorda un volto stilizzato.</Apparel_VisageMask.description>
   
 </LanguageData>
