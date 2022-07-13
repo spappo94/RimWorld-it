@@ -2,112 +2,112 @@
 <LanguageData>
   
   <!-- EN: grand altar -->
-  <Altar_Grand.label>altare grande</Altar_Grand.label>
+  <Altar_Grand.label>TODO</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
-  <Altar_Grand.description>Una grande piattaforma che svolge un ruolo nei rituali ideologici.</Altar_Grand.description>
+  <Altar_Grand.description>TODO</Altar_Grand.description>
   
   <!-- EN: large altar -->
-  <Altar_Large.label>altare ampio</Altar_Large.label>
+  <Altar_Large.label>TODO</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>Una ampio piattaforma che svolge un ruolo nei rituali ideologici.</Altar_Large.description>
+  <Altar_Large.description>TODO</Altar_Large.description>
   
   <!-- EN: medium altar -->
-  <Altar_Medium.label>altare medio</Altar_Medium.label>
+  <Altar_Medium.label>TODO</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>Una medio piattaforma che svolge un ruolo nei rituali ideologici.</Altar_Medium.description>
+  <Altar_Medium.description>TODO</Altar_Medium.description>
   
   <!-- EN: small altar -->
-  <Altar_Small.label>altare piccolo</Altar_Small.label>
+  <Altar_Small.label>TODO</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>Una piccolo piattaforma che svolge un ruolo nei rituali ideologici.</Altar_Small.description>
+  <Altar_Small.description>TODO</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
-  <BiosculpterPod.label>pod di bioscultura</BiosculpterPod.label>
+  <BiosculpterPod.label>TODO</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>Una capsula immersiva dotata di un iniettore di fluidi bioscultori e di un sistema di controllo annesso. Può eseguire una serie di alterazioni biologiche, tra cui l'inversione dell'età e la donazione di piacere. Ogni capsula diventa biotuned per il suo utilizzatore e non può essere usata da nessun altro. La biotuning si ripristina dopo 60 giorni. I credenti nel transumanesimo ritengono che i baccelli bioscultori siano di importanza fondamentale nella loro ricerca di trascendere i normali limiti fisici umani.</BiosculpterPod.description>
+  <BiosculpterPod.description>TODO</BiosculpterPod.description>
   <!-- EN: healing -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>guarigione</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
   <!-- EN: Heal all fresh wounds and one random permanent injury. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>Guarisce tutte le ferite fresche e una ferita permanente casuale.</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.description>
   <!-- EN: age reversal -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>inversione di età</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
   <!-- EN: Reverse one year of aging. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>Invertire un anno di invecchiamento.</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
   <!-- EN: pleasure -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>piacere</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
   <!-- EN: Temporarily reshape the nervous system to deliver elevated levels of happiness for a time. -->
-  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>Rimodellano temporaneamente il sistema nervoso per fornire livelli elevati di felicità per un certo periodo di tempo.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>TODO</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
   <!-- EN: burnbong -->
-  <Burnbong.label>bong falò</Burnbong.label>
+  <Burnbong.label>TODO</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
-  <Burnbong.description>Struttura in legno riempita di smokeleaf. Può essere accesa durante un rituale e produrre un'enorme quantità di fumo di smokeleaf per alcune ore, dopodiché viene distrutta.</Burnbong.description>
+  <Burnbong.description>TODO</Burnbong.description>
   
   <!-- EN: cannibal platter -->
-  <CannibalPlatter.label>piatto cannibale</CannibalPlatter.label>
+  <CannibalPlatter.label>TODO</CannibalPlatter.label>
   <!-- EN: An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast. -->
-  <CannibalPlatter.description>Un'area del pavimento ricoperta di carne umana pre-tagliata e disposta per un banchetto cannibale.</CannibalPlatter.description>
+  <CannibalPlatter.description>TODO</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
-  <ChristmasTree.label>albero di natale</ChristmasTree.label>
+  <ChristmasTree.label>TODO</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
-  <ChristmasTree.description>Un albero celebrativo decorato con ornamenti e luci tradizionalmente realizzati nell'ambito delle celebrazioni natalizie.</ChristmasTree.description>
+  <ChristmasTree.description>TODO</ChristmasTree.description>
   
   <!-- EN: standing darklamp -->
-  <Darklamp.label>lampada scura permanente</Darklamp.label>
+  <Darklamp.label>TODO</Darklamp.label>
   <!-- EN: A low-powered electrical standing lamp that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source. -->
-  <Darklamp.description>Lampada elettrica a stelo a bassa potenza che emette una luce fioca su un'ampia superficie. Le persone che preferiscono lavorare al buio sono soddisfatte di questa fonte di luce.</Darklamp.description>
+  <Darklamp.description>TODO</Darklamp.description>
   
   <!-- EN: darktorch -->
-  <Darktorch.label>torcia oscura</Darktorch.label>
+  <Darktorch.label>TODO</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Darktorch.description>Torcia di legno appositamente trattata che produce una luce fioca su un'ampia superficie. Le persone che preferiscono la luce scura lavorano al meglio con questa fonte di luce. Può essere alimentata automaticamente con legna. Produce una piccola quantità di calore.</Darktorch.description>
+  <Darktorch.description>TODO</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
-  <DarktorchFungus.label>torcia a fungo oscura</DarktorchFungus.label>
+  <DarktorchFungus.label>TODO</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <DarktorchFungus.description>Una torcia a fungo appositamente trattata che produce una luce fioca su un'ampia superficie. Le persone che preferiscono la luce scura lavorano meglio con questa fonte di luce. Può essere alimentata automaticamente con legna. Produce una piccola quantità di calore.</DarktorchFungus.description>
+  <DarktorchFungus.description>TODO</DarktorchFungus.description>
   
   <!-- EN: effigy -->
-  <Effigy.label>effigie</Effigy.label>
+  <Effigy.label>TODO</Effigy.label>
   <!-- EN: A rough wooden frame in the shape of a human, ready to be burned as part of a ritual. -->
-  <Effigy.description>Una struttura di legno grezzo a forma di uomo, pronta per essere bruciata come parte di un rituale.</Effigy.description>
+  <Effigy.description>TODO</Effigy.description>
   
   <!-- EN: ideogram -->
-  <Ideogram.label>ideogramma</Ideogram.label>
+  <Ideogram.label>TODO</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
-  <Ideogram.description>Una grande immagine disegnata sul terreno e rinforzata con bordi metallici. Viene utilizzata come fulcro per i rituali.</Ideogram.description>
+  <Ideogram.description>TODO</Ideogram.description>
   
   <!-- EN: incense shrine -->
-  <IncenseShrine.label>santuario di incenso</IncenseShrine.label>
+  <IncenseShrine.label>TODO</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>Una collezione di contenitori per incenso confezionati. Può essere acceso e produrre un potente effetto di incenso come punto focale per i rituali. Viene distrutto una volta bruciato.</IncenseShrine.description>
+  <IncenseShrine.description>TODO</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>supercarica neurale</NeuralSupercharger.label>
+  <NeuralSupercharger.label>TODO</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
-  <NeuralSupercharger.description>Un dispositivo di sensibilizzazione dei neuroni in grado di fornire una sovralimentazione neurale al giorno. Una persona con una sovralimentazione neurale penserà e imparerà più velocemente, ma consumerà anche più cibo. L'effetto si esaurisce in un giorno. I supercaricatori neurali consumano molta elettricità.</NeuralSupercharger.description>
+  <NeuralSupercharger.description>TODO</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
-  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>Ottenere una sovralimentazione neurale</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>TODO</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   
   <!-- EN: pyre -->
-  <Pyre.label>pira</Pyre.label>
+  <Pyre.label>TODO</Pyre.label>
   <!-- EN: A wooden tower for ritual burning. -->
-  <Pyre.description>Una torre di legno per la combustione rituale.</Pyre.description>
+  <Pyre.description>TODO</Pyre.description>
   
   <!-- EN: ritual spot -->
-  <RitualSpot.label>punto rituale</RitualSpot.label>
+  <RitualSpot.label>TODO</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
-  <RitualSpot.description>Un luogo dove si svolgono determinati tipi di rituali.</RitualSpot.description>
+  <RitualSpot.description>TODO</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
-  <SacrificialFlag.label>bandiera sacrificale</SacrificialFlag.label>
+  <SacrificialFlag.label>TODO</SacrificialFlag.label>
   <!-- EN: A flag representing enemies, ready to be burned as part of a ritual. -->
-  <SacrificialFlag.description>Una bandiera che rappresenta i nemici, pronta per essere bruciata come parte di un rituale.</SacrificialFlag.description>
+  <SacrificialFlag.description>TODO</SacrificialFlag.description>
   
   <!-- EN: sleep accelerator -->
-  <SleepAccelerator.label>acceleratore del sonno</SleepAccelerator.label>
+  <SleepAccelerator.label>TODO</SleepAccelerator.label>
   <!-- EN: A bedside device that accelerates the sleeper's circadian rhythm. This speeds up sleep, but consumes a lot of electricity and also causes increased hunger. It must be placed directly adjacent to and facing the head of the bed. Placing more than one sleep accelerator near the same bed has no effect. -->
-  <SleepAccelerator.description>Un dispositivo da comodino che accelera il ritmo circadiano del dormiente. Accelera il sonno, ma consuma molta elettricità e provoca un aumento della fame. Deve essere posizionato direttamente accanto e di fronte alla testa del letto. La collocazione di più di un acceleratore del sonno vicino allo stesso letto non ha alcun effetto.</SleepAccelerator.description>
+  <SleepAccelerator.description>TODO</SleepAccelerator.description>
   
 </LanguageData>
