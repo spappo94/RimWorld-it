@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: ancient comms console -->
-  <AncientCommsConsole.label>TODO</AncientCommsConsole.label>
+  <AncientCommsConsole.label>antica console di comunicazione</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientCommsConsole.description>TODO</AncientCommsConsole.description>
+  <AncientCommsConsole.description>Un'antica console con annessa parabola di comunicazione. Mancano parti preziose e tutto il resto è degradato fino all'inutilità.</AncientCommsConsole.description>
   
   <!-- EN: ancient cryptosleep pod -->
-  <AncientCryptosleepPod.label>TODO</AncientCryptosleepPod.label>
+  <AncientCryptosleepPod.label>antica capsula di criptosonno</AncientCryptosleepPod.label>
   <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
-  <AncientCryptosleepPod.description>TODO</AncientCryptosleepPod.description>
+  <AncientCryptosleepPod.description>Capsula monouso per conservare una persona in uno stato di animazione sospesa. A differenza degli scrigni per il criptosonno, le capsule per il criptosonno possono essere utilizzate una sola volta.</AncientCryptosleepPod.description>
   
   <!-- EN: ancient enemy terminal -->
-  <AncientEnemyTerminal.label>TODO</AncientEnemyTerminal.label>
+  <AncientEnemyTerminal.label>terminale nemico antico</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
-  <AncientEnemyTerminal.description>TODO</AncientEnemyTerminal.description>
+  <AncientEnemyTerminal.description>Un antico terminale informatico. Può essere hackerato per chiamare i nemici vicini.</AncientEnemyTerminal.description>
   
   <!-- EN: ancient unstable fuel node -->
-  <AncientFuelNode.label>TODO</AncientFuelNode.label>
+  <AncientFuelNode.label>antico nodo di combustibile instabile</AncientFuelNode.label>
   <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
-  <AncientFuelNode.description>TODO</AncientFuelNode.description>
+  <AncientFuelNode.description>Un nodo di carburante antico e instabile, un tempo utilizzato per caricare le macchine con il carburante. Nel corso degli anni è diventato instabile a causa della mancanza di manutenzione.</AncientFuelNode.description>
   
   <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>TODO</AncientHermeticCrate.label>
+  <AncientHermeticCrate.label>cassa ermetica</AncientHermeticCrate.label>
   <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>TODO</AncientHermeticCrate.description>
+  <AncientHermeticCrate.description>Una cassa autoalimentata a chiusura ermetica per la conservazione di oggetti di valore. Queste casse possono conservare il loro contenuto per lungo tempo.</AncientHermeticCrate.description>
   
   <!-- EN: security crate -->
-  <AncientSecurityCrate.label>TODO</AncientSecurityCrate.label>
+  <AncientSecurityCrate.label>cassa di sicurezza</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
-  <AncientSecurityCrate.description>TODO</AncientSecurityCrate.description>
+  <AncientSecurityCrate.description>Una grande cassa autoalimentata a chiusura ermetica con allarme di sicurezza incorporato. Queste casse possono conservare il loro contenuto per molto tempo. Se viene aperta senza il codice appropriato, probabilmente attiverà qualche sistema di sicurezza nelle vicinanze.</AncientSecurityCrate.description>
   
   <!-- EN: ancient terminal -->
-  <AncientTerminal.label>TODO</AncientTerminal.label>
+  <AncientTerminal.label>antico terminale</AncientTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
-  <AncientTerminal.description>TODO</AncientTerminal.description>
+  <AncientTerminal.description>Un antico terminale di computer. Può essere violato per rivelare informazioni dimenticate da tempo.</AncientTerminal.description>
   
 </LanguageData>
