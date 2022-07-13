@@ -3,195 +3,195 @@
 
   <!-- Ideoligions -->
   <!-- EN: Deities -->
-  <Deities>TODO</Deities>
+  <Deities>Divinità</Deities>
   <!-- EN: Show all ideoligions -->
-  <ButtonShowAllIdeoligions>TODO</ButtonShowAllIdeoligions>
+  <ButtonShowAllIdeoligions>Mostra tutte le ideologie</ButtonShowAllIdeoligions>
   <!-- EN: Ideoligion of -->
-  <IdeoligionOf>TODO</IdeoligionOf>
+  <IdeoligionOf>Ideoligione di</IdeoligionOf>
   <!-- EN: Memes -->
-  <Memes>TODO</Memes>
+  <Memes>Memes</Memes>
   <!-- EN: Narrative -->
-  <CoreNarrative>TODO</CoreNarrative>
+  <CoreNarrative>Narrativa</CoreNarrative>
   <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
-  <CoreNarrativeDesc>TODO</CoreNarrativeDesc>
+  <CoreNarrativeDesc>Il nucleo narrativo della vostra ideologia. Non ha alcun impatto sul gameplay.</CoreNarrativeDesc>
   <!-- EN: Edit narrative -->
-  <EditNarrative>TODO</EditNarrative>
+  <EditNarrative>Modifica narrativa</EditNarrative>
   <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
-  <LockButtonDesc>TODO</LockButtonDesc>
+  <LockButtonDesc>Blocca o sblocca la narrazione dell'ideoligione. Quando è bloccato, il testo narrativo non si rigenera automaticamente se l'ideoligione viene cambiata.</LockButtonDesc>
   <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
-  <LockInOn>TODO</LockInOn>
+  <LockInOn>Il blocco {0} è attualmente attivo. Il {1} non si rigenera automaticamente.</LockInOn>
   <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
-  <LockInOff>TODO</LockInOff>
+  <LockInOff>Il blocco {0} è attualmente disattivato. Il testo {1} può rigenerarsi automaticamente. </LockInOff>
   <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
-  <LockPreceptNameButtonDesc>TODO</LockPreceptNameButtonDesc>
+  <LockPreceptNameButtonDesc>Blocca o sblocca il nome di questo precetto. Quando è bloccato, il nome del precetto non si rigenera automaticamente se l'ideoligione viene cambiata.</LockPreceptNameButtonDesc>
   <!-- EN: Precepts -->
-  <Precepts>TODO</Precepts>
+  <Precepts>Precetti</Precepts>
   <!-- EN: Rituals -->
-  <Rituals>TODO</Rituals>
+  <Rituals>Rituali</Rituals>
   <!-- EN: Roles -->
-  <IdeoRoles>TODO</IdeoRoles>
+  <IdeoRoles>Ruoli</IdeoRoles>
   <!-- EN: Buildings -->
-  <IdeoBuildings>TODO</IdeoBuildings>
+  <IdeoBuildings>Edifici</IdeoBuildings>
   <!-- EN: Relics -->
-  <IdeoRelics>TODO</IdeoRelics>
+  <IdeoRelics>Reliquie</IdeoRelics>
   <!-- EN: Preferred apparel -->
-  <IdeoApparel>TODO</IdeoApparel>
+  <IdeoApparel>Abbigliamento preferito</IdeoApparel>
   <!-- EN: apparel desire -->
-  <IdeoApparelDesire>TODO</IdeoApparelDesire>
+  <IdeoApparelDesire>Abbigliamento desiderato</IdeoApparelDesire>
   <!-- EN: Won't do -->
-  <UnwillingToDoIdeoAction>TODO</UnwillingToDoIdeoAction>
+  <UnwillingToDoIdeoAction>Non lo farà</UnwillingToDoIdeoAction>
   <!-- EN: Stats -->
-  <PreceptStats>TODO</PreceptStats>
+  <PreceptStats>Statistiche</PreceptStats>
   <!-- EN: Prohibitions -->
-  <Prohibitions>TODO</Prohibitions>
+  <Prohibitions>Divieti</Prohibitions>
   <!-- EN: Opinions -->
-  <Opinions>TODO</Opinions>
+  <Opinions>Opinioni</Opinions>
   <!-- EN: Randomize name -->
-  <RandomizeName>TODO</RandomizeName>
+  <RandomizeName>Randomizza nome</RandomizeName>
   <!-- EN: Randomize precepts -->
-  <RandomizePrecepts>TODO</RandomizePrecepts>
+  <RandomizePrecepts>Randomizzare precetti</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>TODO</AddPrecept>
+  <AddPrecept>Aggiungi precetto</AddPrecept>
   <!-- EN: Randomize deities -->
-  <RandomizeDeities>TODO</RandomizeDeities>
+  <RandomizeDeities>randomizzare divinità</RandomizeDeities>
   <!-- EN: Add deity -->
-  <AddDeity>TODO</AddDeity>
+  <AddDeity>Aggiungere divinità</AddDeity>
   <!-- EN: Choose memes -->
-  <ChooseMemes>TODO</ChooseMemes>
+  <ChooseMemes>Scegliere i meme</ChooseMemes>
   <!-- EN: Choose structure -->
-  <ChooseStructure>TODO</ChooseStructure>
+  <ChooseStructure>Scegliere la struttura</ChooseStructure>
   <!-- EN: Choose culture -->
-  <ChooseCulture>TODO</ChooseCulture>
+  <ChooseCulture>Scegliere la cultura</ChooseCulture>
   <!-- EN: Culture -->
-  <Culture>TODO</Culture>
+  <Culture>Cultura</Culture>
   <!-- EN: Culture affects names, appearances, and symbols. -->
-  <CultureTip>TODO</CultureTip>
+  <CultureTip>La cultura influenza i nomi, le apparenze e i simboli.</CultureTip>
   <!-- EN: Structure -->
-  <StructureMeme>TODO</StructureMeme>
+  <StructureMeme>struttura</StructureMeme>
   <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
-  <StructureMemeTip>TODO</StructureMemeTip>
+  <StructureMemeTip>La struttura di un'ideoligione determina il tipo di entità e forze che considera importanti per la struttura morale dell'universo. Non ha effetti diretti sul gioco.</StructureMemeTip>
   <!-- EN: Adjective -->
-  <Adjective>TODO</Adjective>
+  <Adjective>Aggettivo</Adjective>
   <!-- EN: Ritual room -->
-  <WorshipRoom>TODO</WorshipRoom>
+  <WorshipRoom>Stanza rituale</WorshipRoom>
   <!-- EN: Member noun -->
-  <IdeoMembers>TODO</IdeoMembers>
+  <IdeoMembers>Sostantivo membro</IdeoMembers>
   <!-- EN: Member plural -->
-  <IdeoMembersPlural>TODO</IdeoMembersPlural>
+  <IdeoMembersPlural>Membro plurale</IdeoMembersPlural>
   <!-- EN: Edit symbols -->
-  <EditSymbols>TODO</EditSymbols>
+  <EditSymbols>Modifica simboli</EditSymbols>
   <!-- EN: Edit deity -->
-  <EditDeity>TODO</EditDeity>
+  <EditDeity>Modifica divinità</EditDeity>
   <!-- EN: Edit required apparel -->
-  <EditApparelRequirement>TODO</EditApparelRequirement>
+  <EditApparelRequirement>Modifica abbigliamento richiesto</EditApparelRequirement>
   <!-- EN: Edit name -->
-  <EditName>TODO</EditName>
+  <EditName>Modifica nome</EditName>
   <!-- EN: Any time -->
-  <StartingCondition_Anytime>TODO</StartingCondition_Anytime>
+  <StartingCondition_Anytime>In qualsiasi momento</StartingCondition_Anytime>
   <!-- EN: Date -->
-  <StartingCondition_Date>TODO</StartingCondition_Date>
+  <StartingCondition_Date>Data</StartingCondition_Date>
   <!-- EN: Starting condition -->
-  <StartingCondition>TODO</StartingCondition>
+  <StartingCondition>Condizione iniziale</StartingCondition>
   <!-- EN: Edit -->
-  <Edit>TODO</Edit>
+  <Edit>Modifica</Edit>
   <!-- EN: Randomize symbols -->
-  <RandomizeSymbols>TODO</RandomizeSymbols>
+  <RandomizeSymbols>Randomizzare simboli</RandomizeSymbols>
   <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
-  <RandomizeSymbolsTooltip>TODO</RandomizeSymbolsTooltip>
+  <RandomizeSymbolsTooltip>Randomizza il nome dell'ideoligione, l'icona, la narrazione, il titolo del leader e qualsiasi altro testo come i nomi dei rituali o dei ruoli. Questo non influisce sugli elementi di gioco come i memi o i precetti.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
-  <ClickAnyElementToEditIt>TODO</ClickAnyElementToEditIt>
+  <ClickAnyElementToEditIt>Fare clic su qualsiasi elemento per modificarlo</ClickAnyElementToEditIt>
   <!-- EN: Click to edit -->
-  <ClickToEdit>TODO</ClickToEdit>
+  <ClickToEdit>Fare clic per modificare</ClickToEdit>
   <!-- EN: Leader title -->
-  <LeaderTitle>TODO</LeaderTitle>
+  <LeaderTitle>Titolo Leader</LeaderTitle>
   <!-- EN: Deity name -->
-  <DeityName>TODO</DeityName>
+  <DeityName>Nome divinità</DeityName>
   <!-- EN: Deity title -->
-  <DeityTitle>TODO</DeityTitle>
+  <DeityTitle>Titolo divinità</DeityTitle>
   <!-- EN: Deity gender -->
-  <DeityGender>TODO</DeityGender>
+  <DeityGender>Genere divinità</DeityGender>
   <!-- EN: Name -->
-  <Name>TODO</Name>
+  <Name>Nome</Name>
   <!-- EN: Icon -->
-  <Icon>TODO</Icon>
+  <Icon>Icona</Icon>
   <!-- EN: Related to meme -->
-  <RelatedToMeme>TODO</RelatedToMeme>
+  <RelatedToMeme>Relativo al meme</RelatedToMeme>
   <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
-  <IdeoCharityQuestInfo>TODO</IdeoCharityQuestInfo>
+  <IdeoCharityQuestInfo>Questa è una missione di beneficenza. Se non la si compie, i credenti in {0} saranno infelici a causa delle loro credenze caritatevoli. Se lo fate, i credenti in {0} saranno felici ({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
-  <WorkDisabledSlave>TODO</WorkDisabledSlave>
+  <WorkDisabledSlave>Gli schiavi non faranno questo lavoro</WorkDisabledSlave>
   <!-- EN: Disabled by {0} role -->
-  <WorkDisabledRole>TODO</WorkDisabledRole>
+  <WorkDisabledRole>Disabilitato dal ruolo {0}</WorkDisabledRole>
   <!-- EN: Affected by traits -->
-  <AffectedByTraits>TODO</AffectedByTraits>
+  <AffectedByTraits>Influenzato dai tratti</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
-  <CharityQuestTip>TODO</CharityQuestTip>
+  <CharityQuestTip>Questa è una ricerca di beneficenza. Le persone con convinzioni caritatevoli saranno influenzate dal suo esito.</CharityQuestTip>
   <!-- EN: formerly -->
-  <Formerly>TODO</Formerly>
+  <Formerly>precedente</Formerly>
   <!-- EN: all -->
-  <All>TODO</All>
+  <All>tutti</All>
   <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
-  <RelicTip>TODO</RelicTip>
+  <RelicTip>Le reliquie sono oggetti di significato spirituale o ideologico. Possono essere scoperte completando missioni lunghe e pericolose. Una reliquia può essere installata in un reliquiario per attirare i pellegrini, migliorare i rituali e rafforzare la capacità di un'ideoligione di convertire gli esterni.</RelicTip>
   <!-- EN: animal -->
-  <Animal>TODO</Animal>
+  <Animal>animale</Animal>
   <!-- EN: Venerated animals -->
-  <VeneratedAnimals>TODO</VeneratedAnimals>
+  <VeneratedAnimals>Animali venerati</VeneratedAnimals>
   <!-- EN: weapon pair -->
-  <IdeoWeapon>TODO</IdeoWeapon>
+  <IdeoWeapon>coppia di armi</IdeoWeapon>
   <!-- EN: Weapons -->
-  <IdeoWeapons>TODO</IdeoWeapons>
+  <IdeoWeapons>armi</IdeoWeapons>
   <!-- EN: Swap noble and despised -->
-  <SwapNobleAndDespised>TODO</SwapNobleAndDespised>
+  <SwapNobleAndDespised>Scambia nobile e disprezzato</SwapNobleAndDespised>
   <!-- EN: noble -->
-  <Noble>TODO</Noble>
+  <Noble>nobile</Noble>
   <!-- EN: despised -->
-  <Despised>TODO</Despised>
+  <Despised>disprezzato</Despised>
   <!-- EN: Unlocked craftables -->
-  <UnlockedRecipes>TODO</UnlockedRecipes>
+  <UnlockedRecipes>Oggetti artigianali sbloccati</UnlockedRecipes>
   <!-- EN: Start with research -->
-  <IdeoStartWithResearch>TODO</IdeoStartWithResearch>
+  <IdeoStartWithResearch>Inizia con la ricerca</IdeoStartWithResearch>
   <!-- EN: Agreeing traits -->
-  <AgreeableTraits>TODO</AgreeableTraits>
+  <AgreeableTraits>Tratti consentiti</AgreeableTraits>
   <!-- EN: Conflicting traits -->
-  <DisagreeableTraits>TODO</DisagreeableTraits>
+  <DisagreeableTraits>Tratti contrastanti</DisagreeableTraits>
   <!-- EN: Shooting -->
-  <Shooting>TODO</Shooting>
+  <Shooting>Tiro</Shooting>
   <!-- EN: Impact -->
-  <IdeoImpact>TODO</IdeoImpact>
+  <IdeoImpact>Impatto</IdeoImpact>
   <!-- EN: Overall impact -->
-  <IdeoImpactOverall>TODO</IdeoImpactOverall>
+  <IdeoImpactOverall>Impatto globale</IdeoImpactOverall>
   <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
-  <IdeoImpactOverallDesc>TODO</IdeoImpactOverallDesc>
+  <IdeoImpactOverallDesc>Alcuni meme hanno un impatto maggiore sul gameplay rispetto ad altri. Il punteggio di impatto del meme dà un'idea di quanto sia grande il suo impatto sul gameplay.</IdeoImpactOverallDesc>
   <!-- EN: low -->
-  <IdeoMemeImpactLabel_1>TODO</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_1>basso</IdeoMemeImpactLabel_1>
   <!-- EN: medium -->
-  <IdeoMemeImpactLabel_2>TODO</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_2>medio</IdeoMemeImpactLabel_2>
   <!-- EN: high -->
-  <IdeoMemeImpactLabel_3>TODO</IdeoMemeImpactLabel_3>
+  <IdeoMemeImpactLabel_3>alto</IdeoMemeImpactLabel_3>
   <!-- EN: low -->
-  <IdeoImpactLabel_1>TODO</IdeoImpactLabel_1>
+  <IdeoImpactLabel_1>basso</IdeoImpactLabel_1>
   <!-- EN: low -->
-  <IdeoImpactLabel_2>TODO</IdeoImpactLabel_2>
+  <IdeoImpactLabel_2>basso</IdeoImpactLabel_2>
   <!-- EN: moderate -->
-  <IdeoImpactLabel_3>TODO</IdeoImpactLabel_3>
+  <IdeoImpactLabel_3>moderato</IdeoImpactLabel_3>
   <!-- EN: moderate -->
-  <IdeoImpactLabel_4>TODO</IdeoImpactLabel_4>
+  <IdeoImpactLabel_4>moderato</IdeoImpactLabel_4>
   <!-- EN: strong -->
-  <IdeoImpactLabel_5>TODO</IdeoImpactLabel_5>
+  <IdeoImpactLabel_5>forte</IdeoImpactLabel_5>
   <!-- EN: strong -->
-  <IdeoImpactLabel_6>TODO</IdeoImpactLabel_6>
+  <IdeoImpactLabel_6>forte</IdeoImpactLabel_6>
   <!-- EN: very strong -->
-  <IdeoImpactLabel_7>TODO</IdeoImpactLabel_7>
+  <IdeoImpactLabel_7>veramente forte</IdeoImpactLabel_7>
   <!-- EN: very strong -->
-  <IdeoImpactLabel_8>TODO</IdeoImpactLabel_8>
+  <IdeoImpactLabel_8>veramente forte</IdeoImpactLabel_8>
   <!-- EN: extreme -->
-  <IdeoImpactLabel_9>TODO</IdeoImpactLabel_9>
+  <IdeoImpactLabel_9>Estremo</IdeoImpactLabel_9>
   <!-- EN: This was your colony's starting ideoligion. -->
-  <InitialPlayerIdeo>TODO</InitialPlayerIdeo>
+  <InitialPlayerIdeo>Questa era l'ideoligione di partenza della vostra colonia.</InitialPlayerIdeo>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>TODO</ResearchProjectHasDefsWithMissingMemes>
+  <ResearchProjectHasDefsWithMissingMemes>{0} sblocca cose che non puoi costruire perché richiedono meme a cui nessuno dei tuoi crede.</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
-  <SelectedWorkTypeOpposedByIdeo>TODO</SelectedWorkTypeOpposedByIdeo>
+  <SelectedWorkTypeOpposedByIdeo>Attenzione: Questo tipo di lavoro è osteggiato dall'ideoligione {0_possessive}, quindi potrebbe rendere questa persona infelice.</SelectedWorkTypeOpposedByIdeo>
 
 </LanguageData>
