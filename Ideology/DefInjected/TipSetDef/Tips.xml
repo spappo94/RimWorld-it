@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: Slaves work slower than normal colonists due to lack of motivation. -->
-  <IdeoligionTips.SlaveWorkEfficiency>TODO</IdeoligionTips.SlaveWorkEfficiency>
+  <IdeoligionTips.SlaveWorkEfficiency>Gli schiavi lavorano più lentamente dei coloni normali per mancanza di motivazione.</IdeoligionTips.SlaveWorkEfficiency>
   <!-- EN: Terror-inducing buildings affect anyone within a 5-cell radius. -->
-  <IdeoligionTips.TerrorRadius>TODO</IdeoligionTips.TerrorRadius>
+  <IdeoligionTips.TerrorRadius>Gli edifici che incutono terrore colpiscono chiunque si trovi nel raggio di 5 celle.</IdeoligionTips.TerrorRadius>
   <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. Consider assigning them more frequent, short naps to prevent starvation during sleep. -->
-  <IdeoligionTips.SleepAcceleratorNaps>TODO</IdeoligionTips.SleepAcceleratorNaps>
+  <IdeoligionTips.SleepAcceleratorNaps>Gli acceleratori del sonno aumentano la qualità del sonno dei coloni, ma aumentano anche il tasso di fame. Considerate di assegnare loro sonnellini brevi e più frequenti per evitare di morire di fame durante il sonno.</IdeoligionTips.SleepAcceleratorNaps>
   
 </LanguageData>
