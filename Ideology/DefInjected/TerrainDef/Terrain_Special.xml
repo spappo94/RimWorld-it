@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: fungal gravel -->
-  <FungalGravel.label>TODO</FungalGravel.label>
+  <FungalGravel.label>ghiaia fungina</FungalGravel.label>
   <!-- EN: A spreadable form of gravel for growing fungal crops underground. It must be placed under overhead mountain so the dank coolness of the depths can nourish the fungal spores. -->
-  <FungalGravel.description>TODO</FungalGravel.description>
+  <FungalGravel.description>Una forma spargibile di ghiaia per la coltivazione di colture fungine sottoterra. Deve essere collocata sotto le montagne, in modo che il fresco delle profondità possa nutrire le spore fungine.</FungalGravel.description>
   
 </LanguageData>
