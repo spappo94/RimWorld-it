@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: dye -->
-  <Dye.label>TODO</Dye.label>
+  <Dye.label>tintura</Dye.label>
   <!-- EN: Dye extracted from a tinctoria plant. It can be transformed into various colors to dye apparel. -->
-  <Dye.description>TODO</Dye.description>
+  <Dye.description>Tintura estratta da una pianta di tinctoria. Può essere trasformata in vari colori per tingere i capi di abbigliamento.</Dye.description>
   
   <!-- EN: Gauranlen seed -->
-  <GauranlenSeed.label>TODO</GauranlenSeed.label>
+  <GauranlenSeed.label>seme di Gauranlen</GauranlenSeed.label>
   <!-- EN: The seed of a Gauranlan tree. It can be planted to create a new Gauranlen tree. -->
-  <GauranlenSeed.description>TODO</GauranlenSeed.description>
+  <GauranlenSeed.description>Il seme di un albero di Gauranlan. Può essere piantato per creare un nuovo albero di Gauranlen.</GauranlenSeed.description>
   
   <!-- EN: fibercorn -->
-  <Plant_Fibercorn.label>TODO</Plant_Fibercorn.label>
+  <Plant_Fibercorn.label>fibra di mais</Plant_Fibercorn.label>
   <!-- EN: An inedible, fibrous plant which produces a small amount of a wood-like substance. -->
-  <Plant_Fibercorn.description>TODO</Plant_Fibercorn.description>
+  <Plant_Fibercorn.description>Una pianta non commestibile, fibrosa, che produce una piccola quantità di sostanza simile al legno.</Plant_Fibercorn.description>
   
   <!-- EN: Gauranlen moss -->
-  <Plant_MossGauranlen.label>TODO</Plant_MossGauranlen.label>
+  <Plant_MossGauranlen.label>Muschio di Gauranlen</Plant_MossGauranlen.label>
   <!-- EN: Symbiotic moss that grows near Gauranlen trees. -->
-  <Plant_MossGauranlen.description>TODO</Plant_MossGauranlen.description>
+  <Plant_MossGauranlen.description>Muschio simbiotico che cresce vicino agli alberi di Gauranlen.</Plant_MossGauranlen.description>
   
   <!-- EN: nutrifungus -->
-  <Plant_Nutrifungus.label>TODO</Plant_Nutrifungus.label>
+  <Plant_Nutrifungus.label>nutrifungo</Plant_Nutrifungus.label>
   <!-- EN: A meaty bioengineered mushroom grown for its nutritious value. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it. -->
-  <Plant_Nutrifungus.description>TODO</Plant_Nutrifungus.description>
+  <Plant_Nutrifungus.description>Un fungo bioingegnerizzato carnoso coltivato per il suo valore nutritivo. Può crescere su ghiaia fungina, ma solo al buio: l'esposizione a qualsiasi tipo di luce, comprese le luci scure, lo ucciderà.</Plant_Nutrifungus.description>
   
   <!-- EN: Gauranlen pod -->
-  <Plant_PodGauranlen.label>TODO</Plant_PodGauranlen.label>
+  <Plant_PodGauranlen.label>Baccello di Gauranlen</Plant_PodGauranlen.label>
   <!-- EN: A small pod that protects a single Gauranlen seed. This seed can be harvested and used to plant a Gauranlen tree. -->
-  <Plant_PodGauranlen.description>TODO</Plant_PodGauranlen.description>
+  <Plant_PodGauranlen.description>Un piccolo baccello che protegge un singolo seme di Gauranlen. Questo seme può essere raccolto e utilizzato per piantare un albero di Gauranlen.</Plant_PodGauranlen.description>
   
   <!-- EN: timbershroom -->
-  <Plant_Timbershroom.label>TODO</Plant_Timbershroom.label>
+  <Plant_Timbershroom.label>fungo del legno</Plant_Timbershroom.label>
   <!-- EN: A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance. -->
-  <Plant_Timbershroom.description>TODO</Plant_Timbershroom.description>
+  <Plant_Timbershroom.description>Fungo alto e marrone con un lungo gambo. Quando viene raccolto, produce una sostanza simile al legno.</Plant_Timbershroom.description>
   
   <!-- EN: tinctoria -->
   <Plant_Tinctoria.label>TODO</Plant_Tinctoria.label>
   <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to dye apparel. -->
-  <Plant_Tinctoria.description>TODO</Plant_Tinctoria.description>
+  <Plant_Tinctoria.description>Una coltura geneticamente modificata simile a un fiore che secerne un colorante auto-alterante. La tintura di Tinctoria può essere fatta diventare di diversi colori e utilizzata per tingere i capi di abbigliamento.</Plant_Tinctoria.description>
   
   <!-- EN: bonsai tree -->
-  <Plant_TreeBonsai.label>TODO</Plant_TreeBonsai.label>
+  <Plant_TreeBonsai.label>albero bonsai</Plant_TreeBonsai.label>
   <!-- EN: A small tree, pruned and shaped to look visually pleasing. -->
-  <Plant_TreeBonsai.description>TODO</Plant_TreeBonsai.description>
+  <Plant_TreeBonsai.description>Un albero di piccole dimensioni, potato e modellato in modo da avere un aspetto gradevole alla vista.</Plant_TreeBonsai.description>
   
   <!-- EN: Gauranlen tree -->
-  <Plant_TreeGauranlen.label>TODO</Plant_TreeGauranlen.label>
+  <Plant_TreeGauranlen.label>Albero di Gauranlen</Plant_TreeGauranlen.label>
   <!-- EN: A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds. -->
-  <Plant_TreeGauranlen.description>TODO</Plant_TreeGauranlen.description>
+  <Plant_TreeGauranlen.description>Un grande albero dall'aspetto caratteristico con un ciclo di vita unico. Ogni albero Gauranlen contiene una piccola regina driade non cosciente. La regina partorisce creature chiamate driadi che custodiscono e curano l'albero. In cambio, l'albero nutre i suoi protettori nutrendoli direttamente. Dall'esterno, sembra che le driadi siano create direttamente dall'albero e che agiscano come parte di esso.È possibile per una persona stabilire un legame con un albero di Gauranlen e controllare parzialmente le driadi che produce.Alcuni dicono che gli alberi di Gauranlen siano le case degli spiriti della natura che seguono l'umanità attraverso i mondi.</Plant_TreeGauranlen.description>
   
 </LanguageData>
