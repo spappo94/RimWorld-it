@@ -3,91 +3,91 @@
 
   <!-- Character -->
   <!-- EN: Overrides some precepts related to -->
-  <OverridesSomePrecepts>TODO</OverridesSomePrecepts>
+  <OverridesSomePrecepts>Supera alcuni precetti relativi a</OverridesSomePrecepts>
   <!-- EN: Agrees with memes -->
-  <AgreeableMemes>TODO</AgreeableMemes>
+  <AgreeableMemes>Concorda con i meme</AgreeableMemes>
   <!-- EN: Conflicts with memes -->
-  <DisagreeableMemes>TODO</DisagreeableMemes>
+  <DisagreeableMemes>Conflitti con i meme</DisagreeableMemes>
 
   <!-- ITab titles -->
   <!-- EN: Slave -->
-  <TabSlave>TODO</TabSlave>
+  <TabSlave>Schiavo</TabSlave>
   <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
-  <SlaveReleaseRelationGainsDesc>TODO</SlaveReleaseRelationGainsDesc>
+  <SlaveReleaseRelationGainsDesc>La benevolenza della fazione che si ottiene liberando uno schiavo. Questo dato è influenzato dalla salute fisica e mentale dello schiavo.</SlaveReleaseRelationGainsDesc>
   <!-- EN: Relations gain on release -->
-  <SlaveReleasePotentialRelationGains>TODO</SlaveReleasePotentialRelationGains>
+  <SlaveReleasePotentialRelationGains>Guadagno dei rapporti al momento del rilascio</SlaveReleasePotentialRelationGains>
   <!-- EN: Slave rebellion interval -->
-  <SlaveRebellionMTBDays>TODO</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDays>Intervallo di ribellione degli schiavi</SlaveRebellionMTBDays>
   <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by mood, health, suppression, proximity to weapons and the presence of colonists on the map. -->
-  <SlaveRebellionMTBDaysDescription>TODO</SlaveRebellionMTBDaysDescription>
+  <SlaveRebellionMTBDaysDescription>Il numero medio di giorni di intervallo di ribellione degli schiavi tra i tentativi di ribellione degli schiavi. Viene contato solo il tempo di veglia. Questo intervallo è influenzato dall'umore, dalla salute, dalla soppressione, dalla vicinanza alle armi e dalla presenza di coloni sulla mappa.</SlaveRebellionMTBDaysDescription>
 
   <!-- Slave tab -->
   <!-- EN: Suppression -->
-  <Suppression>TODO</Suppression>
+  <Suppression>Soppressione</Suppression>
   <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
-  <SuppressionDesc>TODO</SuppressionDesc>
+  <SuppressionDesc>La soppressione è l'effetto psicologico della paura e del controllo su uno schiavo. Se la soppressione è bassa, è più probabile che gli schiavi si ribellino.</SuppressionDesc>
   <!-- EN: Suppression fall rate -->
-  <SuppressionFallRate>TODO</SuppressionFallRate>
+  <SuppressionFallRate>Tasso di caduta della soppressione</SuppressionFallRate>
   <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
-  <SuppressionFallRateDesc>TODO</SuppressionFallRateDesc>
+  <SuppressionFallRateDesc>La soppressione diminuisce nel tempo a seconda del livello attuale:\n\n- {1}+ soppressione: {0} al giorno\n- {4}-{3} soppressione: {2} al giorno\n- {6}- soppressione: {5} al giorno {n}Anche l'abbigliamento e il terrore possono influire sulla velocità di caduta della soppressione. Il calcolo del tasso di caduta di questo schiavo è</SuppressionFallRateDesc>
   <!-- EN: Cannot emancipate -->
-  <CannotEmancipate>TODO</CannotEmancipate>
+  <CannotEmancipate>Impossibile emanciparsi</CannotEmancipate>
   <!-- EN: Cannot imprison -->
-  <CannotImprison>TODO</CannotImprison>
+  <CannotImprison>Impossibile imprigionare</CannotImprison>
   <!-- EN: Current suppression -->
-  <CurrentSuppression>TODO</CurrentSuppression>
+  <CurrentSuppression>Soppressione attuale</CurrentSuppression>
   <!-- EN: Terror -->
-  <Terror>TODO</Terror>
+  <Terror>Terrore</Terror>
   <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
-  <TerrorDescription>TODO</TerrorDescription>
+  <TerrorDescription>Il terrore è un modo per tenere gli schiavi soppressi. Aumenta quando lo schiavo passa del tempo vicino a cose terrificanti come le sculture del terrore. Uno schiavo può essere influenzato solo da tre fonti di terrore alla volta.´Quando il terrore è alto, la soppressione diminuisce più lentamente come segue</TerrorDescription>
   <!-- EN: Recent terrifying observations -->
-  <TerrorCurrentThoughts>TODO</TerrorCurrentThoughts>
+  <TerrorCurrentThoughts>Recenti osservazioni terrificanti</TerrorCurrentThoughts>
 
   <!-- EN: Base interval -->
-  <SuppressionBaseInterval>TODO</SuppressionBaseInterval>
+  <SuppressionBaseInterval>Intervallo base</SuppressionBaseInterval>
   <!-- EN: Moving capacity -->
-  <SuppressionMovingCapacityFactor>TODO</SuppressionMovingCapacityFactor>
+  <SuppressionMovingCapacityFactor>Capacità di movimento</SuppressionMovingCapacityFactor>
   <!-- EN: Suppression -->
-  <SuppressionFactor>TODO</SuppressionFactor>
+  <SuppressionFactor>soppressione</SuppressionFactor>
   <!-- EN: Mood -->
-  <SuppressionMoodFactor>TODO</SuppressionMoodFactor>
+  <SuppressionMoodFactor>Umore</SuppressionMoodFactor>
   <!-- EN: Escape route -->
-  <SuppressionEscapeFactor>TODO</SuppressionEscapeFactor>
+  <SuppressionEscapeFactor>Via di fuga</SuppressionEscapeFactor>
   <!-- EN: Weapon proximity -->
-  <SuppressionWeaponProximityFactor>TODO</SuppressionWeaponProximityFactor>
+  <SuppressionWeaponProximityFactor>Prossimità armi</SuppressionWeaponProximityFactor>
   <!-- EN: Final interval -->
-  <SuppressionFinalInterval>TODO</SuppressionFinalInterval>
+  <SuppressionFinalInterval>Intervallo finale</SuppressionFinalInterval>
   <!-- EN: Unattended -->
-  <SuppressionUnattendedByColonists>TODO</SuppressionUnattendedByColonists>
+  <SuppressionUnattendedByColonists>Incustodito</SuppressionUnattendedByColonists>
 
   <!-- EN: Will -->
-  <WillLevel>TODO</WillLevel>
+  <WillLevel>Volontà</WillLevel>
   <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
-  <WillLevelDesc>TODO</WillLevelDesc>
+  <WillLevelDesc>Quanto il prigioniero è determinato a non sottomettersi. Quando raggiunge lo zero, può essere ridotto in schiavitù.</WillLevelDesc>
   <!-- EN: {0} base will -->
-  <WillFromPawnKind>TODO</WillFromPawnKind>
+  <WillFromPawnKind>{0} volontà base</WillFromPawnKind>
   <!-- EN: Target ideoligion -->
-  <IdeoConversionTarget>TODO</IdeoConversionTarget>
+  <IdeoConversionTarget>Ideoligione target</IdeoConversionTarget>
   <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
-  <IdeoConversionTargetDesc>TODO</IdeoConversionTargetDesc>
+  <IdeoConversionTargetDesc>L'ideoligione a cui i vostri guardiani cercheranno di convertire questo prigioniero.</IdeoConversionTargetDesc>
 
   <!-- Social -->
   <!-- EN: Change per day due to mood -->
-  <CertaintyChangePerDay>TODO</CertaintyChangePerDay>
+  <CertaintyChangePerDay>Variazione giornaliera dovuta all'umore</CertaintyChangePerDay>
   <!-- EN: Change rate based on mood -->
-  <MoodChangeRate>TODO</MoodChangeRate>
+  <MoodChangeRate>Variazione di velocità in base all'umore</MoodChangeRate>
   <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
-  <CertaintyInIdeo>TODO</CertaintyInIdeo>
+  <CertaintyInIdeo>La certezza di {PAWN_nameDef} in {IDEO_name}</CertaintyInIdeo>
   <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
-  <RoleDesc>TODO</RoleDesc>
+  <RoleDesc>Uno status speciale che questa persona detiene nella sua ideoligione. Se si cambia o si toglie questo ruolo, la persona diventerà infelice.</RoleDesc>
   <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
-  <ConversionWeakerDueToTraitAgreements>TODO</ConversionWeakerDueToTraitAgreements>
+  <ConversionWeakerDueToTraitAgreements>I tentativi di conversione saranno più deboli a causa dell'accordo tratto/meme</ConversionWeakerDueToTraitAgreements>
   <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
-  <ConversionStrongerDueToTraitAgreements>TODO</ConversionStrongerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>I tentativi di conversione saranno più forti a causa del conflitto tratto/meme</ConversionStrongerDueToTraitAgreements>
 
   <!-- EN: Cut -->
-  <Cut>TODO</Cut>
+  <Cut>Taglia</Cut>
   <!-- EN: Cut both eyes -->
-  <CutBothEyes>TODO</CutBothEyes>
+  <CutBothEyes>Taglia entrambi gli occhi</CutBothEyes>
 
 </LanguageData>
